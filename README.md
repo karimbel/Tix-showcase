@@ -20,7 +20,7 @@
 | 📷 **Scannez** | Numérisez le document avec votre téléphone : bords détectés, image redressée, jusqu'à 30 pages. Le même scanner que l'application Fichiers de Google. |
 | 🧮 **Calculez** | Tix lit le montant TTC, la date et le commerçant pour vous. Vous corrigez en un geste si besoin, et le **total du mois** se met à jour tout seul. |
 | 🗂️ **Classez** | Catégories (Repas, Transport, Fournitures, Hébergement, Autre, et les vôtres), navigation par mois, filtre par catégorie, recherche dans le texte du document. |
-| 📤 **Exportez** | Un fichier CSV prêt pour Excel (Date, Commerçant, Montant TTC, Catégorie, Note), à envoyer par e-mail ou Drive à votre comptable ou à votre employeur. |
+| 📤 **Exportez** | Trois formats pour le mois choisi : un **CSV** prêt pour Excel, un **ZIP** avec le CSV et les scans (photos nommées par date, commerçant et montant), ou un **rapport PDF** avec un tableau (visuel, date, commerçant, catégorie, note, montant) et le total. À envoyer par e-mail ou Drive à votre comptable ou à votre employeur. Chaque document peut aussi être partagé seul, en images ou en PDF multipage. |
 
 ### Aperçu
 
@@ -54,7 +54,7 @@ Les versions suivantes vous sont proposées par Tix lui-même : **Réglages > Mi
 | 📷 **Scan** | Scan the document with your phone: edges detected, image straightened, up to 30 pages. The same scanner as Google's Files app. |
 | 🧮 **Calculate** | Tix reads the total amount, date and merchant for you. Fix anything in one tap, and the **monthly total** updates by itself. |
 | 🗂️ **Organize** | Categories (Meals, Transport, Supplies, Lodging, Other, plus your own), month-by-month browsing, category filter, search inside the document's text. |
-| 📤 **Export** | A CSV file ready for Excel (Date, Merchant, Amount, Category, Note), to send by email or Drive to your accountant or employer. |
+| 📤 **Export** | Three formats for the selected month: a **CSV** ready for Excel, a **ZIP** with the CSV and the scans (images named by date, merchant and amount), or a **PDF report** with a table (preview, date, merchant, category, note, amount) and the total. Send it by email or Drive to your accountant or employer. Each document can also be shared on its own, as images or a multi-page PDF. |
 
 ### Screenshots
 
