@@ -22,6 +22,10 @@
 | 🗂️ **Classez** | Catégories (Repas, Transport, Fournitures, Hébergement, Autre, et les vôtres), navigation par mois, filtre par catégorie, recherche dans le texte du document. |
 | 📤 **Exportez** | Un fichier CSV prêt pour Excel (Date, Commerçant, Montant TTC, Catégorie, Note), à envoyer par e-mail ou Drive à votre comptable ou à votre employeur. |
 
+### Aperçu
+
+<table><tr><td align="center"><img src="assets/screens/fr/01-documents.png" width="150" /><br><sub>Documents</sub></td><td align="center"><img src="assets/screens/fr/02-formulaire.png" width="150" /><br><sub>Vérification</sub></td><td align="center"><img src="assets/screens/fr/03-export.png" width="150" /><br><sub>Export</sub></td><td align="center"><img src="assets/screens/fr/04-rapport-pdf.png" width="150" /><br><sub>Rapport PDF</sub></td><td align="center"><img src="assets/screens/fr/05-reglages.png" width="150" /><br><sub>Réglages</sub></td></tr></table>
+
 ### Pourquoi Tix
 
 - **Rapide** : le formulaire est déjà rempli, vous ne faites que vérifier.
@@ -51,6 +55,10 @@ Les versions suivantes vous sont proposées par Tix lui-même : **Réglages > Mi
 | 🧮 **Calculate** | Tix reads the total amount, date and merchant for you. Fix anything in one tap, and the **monthly total** updates by itself. |
 | 🗂️ **Organize** | Categories (Meals, Transport, Supplies, Lodging, Other, plus your own), month-by-month browsing, category filter, search inside the document's text. |
 | 📤 **Export** | A CSV file ready for Excel (Date, Merchant, Amount, Category, Note), to send by email or Drive to your accountant or employer. |
+
+### Screenshots
+
+<table><tr><td align="center"><img src="assets/screens/en/01-documents.png" width="150" /><br><sub>Documents</sub></td><td align="center"><img src="assets/screens/en/02-formulaire.png" width="150" /><br><sub>Review</sub></td><td align="center"><img src="assets/screens/en/03-export.png" width="150" /><br><sub>Export</sub></td><td align="center"><img src="assets/screens/en/04-rapport-pdf.png" width="150" /><br><sub>PDF report</sub></td><td align="center"><img src="assets/screens/en/05-reglages.png" width="150" /><br><sub>Settings</sub></td></tr></table>
 
 ### Why Tix
 
