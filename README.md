@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/logo.png" alt="Tix" width="96" /></p>
+
 <h1 align="center">Tix</h1>
 
 <p align="center"><strong>Le compagnon quotidien pour gérer vos remboursements</strong><br>
