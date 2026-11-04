@@ -1,7 +1,7 @@
 <h1 align="center">Tix</h1>
 
-<p align="center"><strong>Scannez vos documents, Tix lit le montant, la date et le commerçant</strong><br>
-<em>Scan your documents, Tix reads the amount, date and merchant</em></p>
+<p align="center"><strong>Le compagnon quotidien pour gérer vos remboursements</strong><br>
+<em>Your everyday companion for managing expense claims</em></p>
 
 <p align="center">
   <a href="https://github.com/karimbel/Tix-showcase/releases/latest/download/tix.apk"><strong>Télécharger / Download (.apk)</strong></a>
@@ -13,19 +13,21 @@
 
 ## Français
 
-Tix est une application Android pour classer vos tickets, reçus, factures et notes de frais. Vous scannez le document, Tix en lit le texte et pré-remplit une fiche que vous corrigez en quelques secondes.
+**Fini les tickets perdus et les notes de frais bouclées dans la précipitation.** Tix transforme chaque ticket, reçu ou facture en une ligne claire, prête à être remboursée. Scannez, vérifiez en quelques secondes, c'est classé.
 
-### Fonctionnalités
+| | |
+| :--- | :--- |
+| 📷 **Scannez** | Photographiez le document : bords détectés, image redressée, jusqu'à 30 pages. Le même scanner que l'application Fichiers de Google. |
+| 🧮 **Calculez** | Tix lit le montant TTC, la date et le commerçant pour vous. Vous corrigez en un geste si besoin, et le **total du mois** se met à jour tout seul. |
+| 🗂️ **Classez** | Catégories (Repas, Transport, Fournitures, Hébergement, Autre, et les vôtres), navigation par mois, filtre par catégorie, recherche dans le texte du document. |
+| 📤 **Exportez** | Un fichier CSV prêt pour Excel (Date, Commerçant, Montant TTC, Catégorie, Note), à envoyer par e-mail ou Drive à votre comptable ou à votre employeur. |
 
-- **Scan multipage** : le même scanner que l'application Fichiers de Google (détection des bords, redressement), jusqu'à 30 pages par document.
-- **Lecture automatique** : montant TTC, date et commerçant sont proposés à partir du texte du document. La lecture n'est pas parfaite, la fiche permet de tout corriger avant d'enregistrer.
-- **Catégories** : Repas, Transport, Fournitures, Hébergement, Autre, et les vôtres.
-- **Liste par mois** avec total, recherche dans le texte du document et filtre par catégorie.
-- **Zoom** sur le document, page par page.
-- **Export CSV** de la liste affichée (Date, Commerçant, Montant TTC, Catégorie, Note), prêt pour Excel, à partager par e-mail, Drive, etc.
-- **Vos documents restent sur votre téléphone** : aucun compte, aucun envoi vers un serveur. La lecture du texte se fait sur l'appareil.
-- **Français et anglais**, au choix dans Réglages.
-- **Mises à jour** automatiques ou manuelles dans Réglages.
+### Pourquoi Tix
+
+- **Rapide** : le formulaire est déjà rempli, vous ne faites que vérifier.
+- **Fiable** : l'extraction n'est pas parfaite, c'est pourquoi chaque fiche reste modifiable avant d'être enregistrée. Un zoom page par page permet de contrôler le document original.
+- **Privé** : aucun compte, aucun serveur. Vos documents et la lecture du texte restent sur votre téléphone.
+- **Pratique** : français et anglais, mises à jour automatiques ou manuelles.
 
 ### Installation
 
@@ -33,7 +35,7 @@ Tix est une application Android pour classer vos tickets, reçus, factures et no
 2. Ouvrez-le. Si Android le demande, autorisez l'installation d'applications depuis cette source.
 3. Lancez Tix.
 
-Pour les versions suivantes, Tix vous les propose lui-même : **Réglages > Mises à jour**. Vos documents sont conservés.
+Les versions suivantes vous sont proposées par Tix lui-même : **Réglages > Mises à jour**. Vos documents sont conservés.
 
 > Tix est distribuée hors Google Play. Le scanner utilise les services Google Play de l'appareil.
 
@@ -41,19 +43,21 @@ Pour les versions suivantes, Tix vous les propose lui-même : **Réglages > Mise
 
 ## English
 
-Tix is an Android app to organize your receipts, invoices and expense documents. Scan a document, Tix reads its text and pre-fills a form you can correct in seconds.
+**No more lost receipts or rushed expense reports.** Tix turns every receipt, ticket or invoice into a clear line, ready to be reimbursed. Scan, check in seconds, done.
 
-### Features
+| | |
+| :--- | :--- |
+| 📷 **Scan** | Snap the document: edges detected, image straightened, up to 30 pages. The same scanner as Google's Files app. |
+| 🧮 **Calculate** | Tix reads the total amount, date and merchant for you. Fix anything in one tap, and the **monthly total** updates by itself. |
+| 🗂️ **Organize** | Categories (Meals, Transport, Supplies, Lodging, Other, plus your own), month-by-month browsing, category filter, search inside the document's text. |
+| 📤 **Export** | A CSV file ready for Excel (Date, Merchant, Amount, Category, Note), to send by email or Drive to your accountant or employer. |
 
-- **Multi-page scan**: the same scanner as Google's Files app (edge detection, straightening), up to 30 pages per document.
-- **Automatic reading**: total amount, date and merchant are suggested from the document's text. Reading is not perfect, so the form lets you correct everything before saving.
-- **Categories**: Meals, Transport, Supplies, Lodging, Other, plus your own.
-- **Monthly list** with total, search in the document's text and category filter.
-- **Zoom** on the document, page by page.
-- **CSV export** of the displayed list (Date, Merchant, Amount, Category, Note), ready for Excel, to share by email, Drive, etc.
-- **Your documents stay on your phone**: no account, nothing sent to a server. Text recognition runs on the device.
-- **French and English**, selectable in Settings.
-- **Updates**, automatic or manual, in Settings.
+### Why Tix
+
+- **Fast**: the form is already filled in, you just check it.
+- **Reliable**: extraction isn't perfect, so every entry stays editable before saving. A page-by-page zoom lets you check the original document.
+- **Private**: no account, no server. Your documents and text recognition stay on your phone.
+- **Convenient**: French and English, automatic or manual updates.
 
 ### Installation
 
@@ -61,7 +65,7 @@ Tix is an Android app to organize your receipts, invoices and expense documents.
 2. Open it. If Android asks, allow installing apps from this source.
 3. Launch Tix.
 
-For later versions, Tix offers them itself: **Settings > Updates**. Your documents are kept.
+Later versions are offered by Tix itself: **Settings > Updates**. Your documents are kept.
 
 > Tix is distributed outside Google Play. The scanner relies on the device's Google Play services.
 
