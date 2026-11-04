@@ -24,7 +24,7 @@
 
 ### Aperçu
 
-<table><tr><td align="center"><img src="assets/screens/fr/01-documents.png" width="150" /><br><sub>Documents</sub></td><td align="center"><img src="assets/screens/fr/02-formulaire.png" width="150" /><br><sub>Vérification</sub></td><td align="center"><img src="assets/screens/fr/03-export.png" width="150" /><br><sub>Export</sub></td><td align="center"><img src="assets/screens/fr/04-rapport-pdf.png" width="150" /><br><sub>Rapport PDF</sub></td><td align="center"><img src="assets/screens/fr/05-reglages.png" width="150" /><br><sub>Réglages</sub></td></tr></table>
+<table><tr><td align="center"><img src="assets/screens/fr/00-scanner.png" width="150" /><br><sub>Scanner</sub></td><td align="center"><img src="assets/screens/fr/01-documents.png" width="150" /><br><sub>Documents</sub></td><td align="center"><img src="assets/screens/fr/02-formulaire.png" width="150" /><br><sub>Vérification</sub></td><td align="center"><img src="assets/screens/fr/03-export.png" width="150" /><br><sub>Export</sub></td><td align="center"><img src="assets/screens/fr/04-rapport-pdf.png" width="150" /><br><sub>Rapport PDF</sub></td><td align="center"><img src="assets/screens/fr/05-reglages.png" width="150" /><br><sub>Réglages</sub></td></tr></table>
 
 ### Pourquoi Tix
 
@@ -58,7 +58,7 @@ Les versions suivantes vous sont proposées par Tix lui-même : **Réglages > Mi
 
 ### Screenshots
 
-<table><tr><td align="center"><img src="assets/screens/en/01-documents.png" width="150" /><br><sub>Documents</sub></td><td align="center"><img src="assets/screens/en/02-formulaire.png" width="150" /><br><sub>Review</sub></td><td align="center"><img src="assets/screens/en/03-export.png" width="150" /><br><sub>Export</sub></td><td align="center"><img src="assets/screens/en/04-rapport-pdf.png" width="150" /><br><sub>PDF report</sub></td><td align="center"><img src="assets/screens/en/05-reglages.png" width="150" /><br><sub>Settings</sub></td></tr></table>
+<table><tr><td align="center"><img src="assets/screens/en/00-scanner.png" width="150" /><br><sub>Scan</sub></td><td align="center"><img src="assets/screens/en/01-documents.png" width="150" /><br><sub>Documents</sub></td><td align="center"><img src="assets/screens/en/02-formulaire.png" width="150" /><br><sub>Review</sub></td><td align="center"><img src="assets/screens/en/03-export.png" width="150" /><br><sub>Export</sub></td><td align="center"><img src="assets/screens/en/04-rapport-pdf.png" width="150" /><br><sub>PDF report</sub></td><td align="center"><img src="assets/screens/en/05-reglages.png" width="150" /><br><sub>Settings</sub></td></tr></table>
 
 ### Why Tix
 
